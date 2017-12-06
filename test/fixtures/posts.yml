@@ -8,4 +8,4 @@ one:
 two:
   user_id: 1
   title: MyString
-  body: MyString
+body: MyString

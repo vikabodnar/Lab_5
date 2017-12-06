@@ -1,4 +1,4 @@
-	class CreatePostcomments < ActiveRecord::Migration[5.1]
+class CreatePostcomments < ActiveRecord::Migration[5.1]
   def change
     create_table :postcomments do |t|
       t.string :text
