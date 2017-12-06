@@ -12,7 +12,7 @@ Rails.application.routes.draw do
     resources :postcomments
   end
 
-  resources :photos
+  
 
   resources :photos do
     member do
